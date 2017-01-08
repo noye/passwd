@@ -1,4 +1,4 @@
-# passwd
+# passwd parser
 This tool is a binary for Windows that will help you check the passwd information in linux.
 
 ## build
